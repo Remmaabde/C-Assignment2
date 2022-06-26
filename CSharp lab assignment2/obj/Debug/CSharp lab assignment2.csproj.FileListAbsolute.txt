@@ -1,0 +1,3 @@
+C:\Users\End User\Documents\GitHub\C-Assignment2\CSharp lab assignment2\obj\Debug\CSharp lab assignment2.csproj.AssemblyReference.cache
+C:\Users\End User\Documents\GitHub\C-Assignment2\CSharp lab assignment2\obj\Debug\CSharp lab assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\End User\Documents\GitHub\C-Assignment2\CSharp lab assignment2\obj\Debug\CSharp lab assignment2.csproj.CoreCompileInputs.cache
