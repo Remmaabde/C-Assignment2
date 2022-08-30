@@ -21,6 +21,17 @@ namespace CSharp_lab_assignment2
                     Write(i);
                 WriteLine("Please Enter A valid age");
             }
+            else if (age < 18)
+                WriteLine("Sorry You are underage!");
+            else if (age < 21)
+                WriteLine("you need a parental consent");
+            else
+            {
+                WriteLine("Congratulations! You may sign up for the contest");
+
+            }
+
+            }
         }
     }
 }
